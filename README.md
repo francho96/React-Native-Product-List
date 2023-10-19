@@ -16,5 +16,9 @@ npx expo start --tunnel
 ## Pantallazos:
 ![image](https://github.com/francho96/React-Native-Product-List/assets/71195484/bbf7fd81-0dfd-4b07-8bef-fb223bd74625)
 ![image](https://github.com/francho96/React-Native-Product-List/assets/71195484/32a24729-fce8-47e4-aa33-5d9f8076a426)
-![image](https://github.com/francho96/React-Native-Product-List/assets/71195484/0a66ad3a-7006-46f6-a120-cae5a546d9c6)
+
+## Ejecución de la aplicación:
+
+
+https://github.com/francho96/React-Native-Product-List/assets/71195484/f932b30b-63ea-4462-ae3f-5a6a49b303f9
 
