@@ -1,5 +1,16 @@
 # React-Native-Product-List
 Creada como code challenge, es una aplicación básica de lista de productos para React Native con solo core components, se ocupó Expo Go, con emulador de Android Studio.
+Para simular llamada de API, se ocupo la siguiente estructura:
+```
+{
+      id: string;
+      name: string;
+      price: string;
+      description: string;
+      image: string;
+}[]
+```
+Con image como link a una foto de referencia, para así por ejemplo, devolver imágenes desde algún servidor como Minio, que tenga la capacidad de guardar archivos, obviamente las imagenes que estan dentro de la aplicación son links de google, pero que sirven como ejemplo, también, dentro de la app, se tiene id como serial, lo cual debería ser uuid si se trabaja con datos desde alguna BD.
 ## Para correr la aplicación
 Se necesita clonar esta rama del repositorio, posteriormente dentro se debe ejecutar:
 ```
