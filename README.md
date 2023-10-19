@@ -1,7 +1,7 @@
 # React-Native-Product-List
 Creada como code challenge, es una aplicación básica de lista de productos para React Native con solo core components, se ocupó Expo Go, con emulador de Android Studio.
 ## Para correr la aplicación
-Se necesita hacer un pull de esta rama del repositorio, posteriormente dentro se debe ejecutar:
+Se necesita clonar esta rama del repositorio, posteriormente dentro se debe ejecutar:
 ```
 npm install
 ```
